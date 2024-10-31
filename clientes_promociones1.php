@@ -51,7 +51,7 @@ if($rs){
     }
         echo "</table>
         <b>fecha:</b>".$fecha."
-        </center>";
+        </centeryoselin>";
     }
     echo "</body>
             </html>";
